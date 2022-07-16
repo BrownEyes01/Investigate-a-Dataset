@@ -7,5 +7,5 @@
 - Gender?
 - Hospital location?
 - Health condition (Hypertensive, Diabetic)?
-#### After cleaning our data, we explore it programmatically and then answer the questions above to get insights. In conclusion, we discovered that most of the factors listed above do not directly impact how and if a patient shows up for their appointment. 
-</br> There were also some limitations noticed. To get mo
+#### After cleaning our data, we explore it programmatically and then answer the questions above to get insights. In conclusion, we discovered that most of the factors listed above do not directly impact how and if a patient shows up for their appointment.There were also some limitations noticed.
+You can read more and check the code out [here](https://github.com/BrownEyes01/Udacity/commit/3768249d7e2e78b543a5fa7067b7e7cc03816763).
