@@ -1,2 +1,11 @@
-# Udacity
-Data Analytics Projects
+## Investigating a Medical Appointment Dataset
+</br> In this project, I would be analyzing a medical appointment dataset consisting of about a 100,000 inputs that cut across different variables that make up the dataset. Some of these variables include: **Age, Gender, AppiontmentDay, ScheduledDay, Hypertension, No Show** etc. 
+</br>The purpose of this investigation is to clean, explore and draw insights and conclusion from our data to understand some patterns.
+## Question for analysis
+### What factors affect/determine a patient showing up for an appointment?
+- AppointmentDay?
+- Gender?
+- Hospital location?
+- Health condition (Hypertensive, Diabetic)?
+#### After cleaning our data, we explore it programmatically and then answer the questions above to get insights. In conclusion, we discovered that most of the factors listed above do not directly impact how and if a patient shows up for their appointment. 
+</br> There were also some limitations noticed. To get mo
