@@ -11,17 +11,38 @@ In this project, I would be analyzing a medical appointment dataset consisting o
 ## Summary of Findings
 After cleaning our data, we explore it programmatically and then answer the questions above to get insights. In conclusion, we discovered that most of the factors listed above do not directly impact how and if a patient shows up for their appointment.There were also some limitations noticed.
 ## Key Insights for Presentation
-- Use the notebookviewer, [Jupyter Notebook](https://jupyter.org/) to view the content
+- View the code, [Jupyter Notebook](https://github.com/BrownEyes01/Investigate-a-Dataset/commit/3768249d7e2e78b543a5fa7067b7e7cc03816763) in the directory
 - Download the HTML file in the subdirectory and view content locally on any browser.
 ## Getting Started
 > For testing and development purposes, these instructions will help you get a copy of the project up and running on your system.
 ### Prerequisites
 - Installing Jupyter notebook, this can be gotten from the **Anaconda Navigator** or **Anaconda Prompt**.
-- Also installing Python and some of it's libraries.
+- You would also need to install Python and some of it's libraries:
   - Pandas
   - Numpy
   - Matplotlib
   - Seaborn
  ### Installation
+ The following shows how to get a development environment running
+ Here are the installation steps:
+ - Download the Anaconda [installer](https://www.anaconda.com/download/). Choose the Python 3.6 or higher version, and the appropriate 64/32-bit installer.
+ - Refer to the installation instructions [here](https://docs.anaconda.com/anaconda/install/).
+ - Verify the installation, as mentioned [here](https://docs.anaconda.com/anaconda/install/verify-install/)
+ 
+ If you already have Anaconda installed, use the ```environment.yaml``` to create the exact environment I used during the project by typing the line below into the Anaconda terminal in the same folder where the environment file is saved on your computer
+ ```
+ conda env create -f environment.yaml
+ ```
+ OR If you're not using Conda, you can use pip to install dependencies with the requirements.txt file by typing this line into your terminal
+ ```
+ pip install -r requirements.txt
+ ```
+ ## Built With
+ - [Anaconda](https://www.anaconda.com/)- Dependency Management
+ - [Jupyter Notebook](https://jupyter.org/) - Data analysis documentation
+ ## Authors
+ - Frances Uzedu
+ ## License
+ - 
  
 </br>You can read more and check the code out [here](https://github.com/BrownEyes01/Udacity/commit/3768249d7e2e78b543a5fa7067b7e7cc03816763).
