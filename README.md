@@ -43,6 +43,6 @@ After cleaning our data, we explore it programmatically and then answer the ques
  ## Authors
  - Frances Uzedu
  ## License
- - 
- 
-</br>You can read more and check the code out [here](https://github.com/BrownEyes01/Udacity/commit/3768249d7e2e78b543a5fa7067b7e7cc03816763).
+ - This project is licensed under the GNU License- see the [LICENSE](https://github.com/BrownEyes01/Investigate-a-Dataset/blob/main/LICENSE) for details.
+ ## Acknowledgements
+ - Udacity ALX-T Data Analyst Nanodegree
