@@ -9,7 +9,7 @@ In this project, I would be analyzing a medical appointment dataset consisting o
 - Hospital location?
 - Health condition (Hypertensive, Diabetic)?
 ## Summary of Findings
-After cleaning our data, we explore it programmatically and then answer the questions above to get insights. In conclusion, we discovered that most of the factors listed above do not directly impact how and if a patient shows up for their appointment.There were also some limitations noticed.
+After exploring and visualizing the data, most features that make up the data do not directly point to been reasons for patients showing up for their appointment. We can see that more females show up for their appointments; getting a reminder, having a health condition (hypertension or diabetes) does not determine that the parents show up, even being registered in the brazillian welfare system does not guarantee a show-up. In conclusion the data presented in this project is limited in ultimately determining the factors that affect patients showing up for their appointments.
 ## Key Insights for Presentation
 - View the code, [Jupyter Notebook](https://github.com/BrownEyes01/Investigate-a-Dataset/commit/3768249d7e2e78b543a5fa7067b7e7cc03816763) in the directory
 - Download the HTML file in the subdirectory and view content locally on any browser.
