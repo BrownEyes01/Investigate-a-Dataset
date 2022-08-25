@@ -11,7 +11,7 @@ In this project, I would be analyzing a medical appointment dataset consisting o
 ## Summary of Findings
 After exploring and visualizing the data, most features that make up the data do not directly point to been reasons for patients showing up for their appointment. We can see that more females show up for their appointments; getting a reminder, having a health condition (hypertension or diabetes) does not determine that the parents show up, even being registered in the brazillian welfare system does not guarantee a show-up. In conclusion the data presented in this project is limited in ultimately determining the factors that affect patients showing up for their appointments.
 ## Key Insights for Presentation
-- View the code, [Jupyter Notebook](https://github.com/BrownEyes01/Investigate-a-Dataset/commit/3768249d7e2e78b543a5fa7067b7e7cc03816763) in the directory
+- View the content on nbviewer:[Jupyter Notebook](http://nbviewer.org/github/BrownEyes01/Investigate-a-Dataset/blob/main/Project%20%281%29.ipynb) 
 - Download the HTML file in the subdirectory and view content locally on any browser.
 ## Getting Started
 > For testing and development purposes, these instructions will help you get a copy of the project up and running on your system.
